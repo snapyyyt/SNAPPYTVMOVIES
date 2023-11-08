@@ -1,13 +1,13 @@
 [
     {
         "server-name" : "SNAPPY TV MOVIES",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/movie.php",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTVMOVIES/main/movies.php",
         "is-active" : true,
         "logo-url" : "https://i.postimg.cc/zBHv4BxG/Capture.png"
     },
     {
         "server-name" : "SNAPPY TV SERIES",
-        "server-api" : "https://raw.githubusercontent.com/snapyyyt/STV/main/series.php",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTVMOVIES/main/series.php",
         "is-active" : true,
         "logo-url" : "https://i.postimg.cc/zGbPJbr8/download-4-modified.png"
     }
